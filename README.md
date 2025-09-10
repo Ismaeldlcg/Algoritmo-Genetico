@@ -65,10 +65,10 @@ Clonar el repositorio y ejecutar cada script:
 
 ```bash
 # Selección de características
-python Feature_Selection.py
+Feature_Selection.ipynb
 
 # Optimización de hiperparámetros
-python Hyperparameter_Optimization.py
+Hyperparameter_Optimization.ipynb
 
 # Neuroevolución CNN
-python Neuroevolution.py
+Neuroevolution.ipynb
