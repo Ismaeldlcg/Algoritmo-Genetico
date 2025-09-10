@@ -72,3 +72,14 @@ Hyperparameter_Optimization.ipynb
 
 # Neuroevolución CNN
 Neuroevolution.ipynb
+
+```
+
+---
+
+## Integrantes del Grupo 👥
+
+- De La Cruz Gomez Ismael
+- Mamani Condemayta Sandra
+- Paredes Arcaya Mery Luz
+- Yana Mullisaca Sandra Nayely
