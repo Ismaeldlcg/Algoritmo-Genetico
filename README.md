@@ -22,7 +22,7 @@ Este repositorio contiene tres ejemplos prácticos del uso de **Algoritmos Gené
 
 ---
 
-## 2. Optimización de Hiperparámetros 🌳
+## 2. Optimización de Hiperparámetros 🌹
 
 - **Dataset:** [Iris Dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)  
 - **Clasificador:** Random Forest  
